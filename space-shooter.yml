@@ -1,0 +1,22 @@
+name: Update Space Shooter Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 2 # required for commit-diff detection
+
+      - uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: "assets/gh-space-shooter.gif"
+          strategy: "random"
