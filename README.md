@@ -1,153 +1,189 @@
-[README.md](https://github.com/user-attachments/files/30839246/README.md)
+[README (1).md](https://github.com/user-attachments/files/30839397/README.1.md)
 <div align="center">
 
 <br />
 
-<h1>Ayush Phiyak</h1>
-<p><b>Frontend Engineer</b> — building interfaces that feel considered, not assembled.</p>
+<h1 align="center">Ayush Phiyak</h1>
+<p align="center"><b>Frontend Engineer</b><br />Interfaces with intent — React, motion, and AI-driven products.</p>
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2400&pause=1400&color=8B8B8B&center=true&vCenter=true&width=520&lines=React+%2B+JSX+%2B+Motion;AI-powered+interfaces;Design+systems+%26+performance" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1500&color=9CA3AF&center=true&vCenter=true&width=560&lines=Building+with+React+%26+JavaScript;Designing+with+Framer+Motion;Shipping+AI-powered+web+products" alt="typing animation" />
 
-<br /><br />
+<br />
 
-<a href="https://placementdo.app"><img src="https://img.shields.io/badge/placementdo.app-000000?style=for-the-badge&logoColor=white" /></a>
-<a href="mailto:hello@ayushphiyak.dev"><img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logoColor=white" /></a>
+<a href="https://placementdo.app"><img src="https://img.shields.io/badge/placementdo.app-000000?style=for-the-badge&logoColor=white" alt="placementdo" /></a>
+<a href="mailto:ayushphiyakgdg@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-000000?style=for-the-badge&logoColor=white" alt="contact" /></a>
 
 </div>
 
-<br />
+<br /><br />
 
-## Overview
+<table width="100%" border="0">
+<tr>
+<td>
 
-Final-year CSE student at Netaji Subhash Engineering College, graduating 2026. I work primarily in React — the kind of frontend work that sits close to product decisions: interaction detail, motion timing, and the parts of an interface people don't consciously notice but would immediately miss if they were gone. Alongside coursework, I build and ship independent products end to end.
+### Overview
 
-<br />
+Final-year Computer Science student at Netaji Subhash Engineering College, graduating in 2026. My work sits at the intersection of frontend engineering and product design — React interfaces where interaction detail, motion timing, and visual hierarchy are treated as first-class decisions, not finishing touches. Outside coursework, I design and build independent products end to end, from architecture to interface.
 
-## Currently
-
-```txt
-Building     → placementdo.app, an AI mock interview platform with persona-based interviewers
-Exploring    → CarbonPilot, a sustainability-focused web project
-Sharpening   → Framer Motion, design systems, and rendering performance
-Open to      → Frontend / UI engineering internships and early-career roles
-```
+</td>
+</tr>
+</table>
 
 <br />
+
+### Current Focus
+
+<table width="100%" border="0">
+<tr>
+<td width="4"><b>—</b></td>
+<td>Building <b>placementdo.app</b>, an AI-powered placement preparation platform with persona-based mock interviewers</td>
+</tr>
+<tr>
+<td><b>—</b></td>
+<td>Developing <b>CarbonPilot</b>, a sustainability-focused web application</td>
+</tr>
+<tr>
+<td><b>—</b></td>
+<td>Refining motion systems and interface performance across both projects</td>
+</tr>
+</table>
+
+<br /><br />
 
 ## Stack
 
-<table>
+<table width="100%" border="0">
 <tr>
 <td valign="top" width="33%">
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-141414?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/JSX-141414?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/HTML5-141414?style=flat-square&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-141414?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/Framer_Motion-141414?style=flat-square&logo=framer&logoColor=0055FF" />
+<img src="https://img.shields.io/badge/React-0B0B0F?style=flat-square&logo=react&logoColor=61DAFB" height="26" /><br />
+<img src="https://img.shields.io/badge/JavaScript-0B0B0F?style=flat-square&logo=javascript&logoColor=F7DF1E" height="26" /><br />
+<img src="https://img.shields.io/badge/JSX-0B0B0F?style=flat-square&logo=react&logoColor=61DAFB" height="26" /><br />
+<img src="https://img.shields.io/badge/HTML5-0B0B0F?style=flat-square&logo=html5&logoColor=E34F26" height="26" /><br />
+<img src="https://img.shields.io/badge/CSS3-0B0B0F?style=flat-square&logo=css3&logoColor=1572B6" height="26" /><br />
+<img src="https://img.shields.io/badge/Framer_Motion-0B0B0F?style=flat-square&logo=framer&logoColor=0055FF" height="26" />
 
 </td>
 <td valign="top" width="33%">
 
 **Tooling**
 
-<img src="https://img.shields.io/badge/Git-141414?style=flat-square&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-141414?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-141414?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/Git-0B0B0F?style=flat-square&logo=git&logoColor=F05032" height="26" /><br />
+<img src="https://img.shields.io/badge/GitHub-0B0B0F?style=flat-square&logo=github&logoColor=FFFFFF" height="26" /><br />
+<img src="https://img.shields.io/badge/VS_Code-0B0B0F?style=flat-square&logo=visualstudiocode&logoColor=007ACC" height="26" />
 
 </td>
 <td valign="top" width="33%">
 
-**Focus areas**
+**Interests**
 
-<img src="https://img.shields.io/badge/AI_Integration-141414?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Performance-141414?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Motion_Design-141414?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Design_Systems-141414?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-0B0B0F?style=flat-square&logoColor=FFFFFF" height="26" /><br />
+<img src="https://img.shields.io/badge/Motion_Design-0B0B0F?style=flat-square&logoColor=FFFFFF" height="26" /><br />
+<img src="https://img.shields.io/badge/Design_Systems-0B0B0F?style=flat-square&logoColor=FFFFFF" height="26" /><br />
+<img src="https://img.shields.io/badge/Performance-0B0B0F?style=flat-square&logoColor=FFFFFF" height="26" />
 
 </td>
 </tr>
 </table>
 
-<br />
+<br /><br />
 
-## Featured Work
+## Featured Projects
 
-<table>
+<table width="100%" border="0" cellpadding="14">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:1px solid #262626; border-radius:12px;">
 
-**[placementdo-live](https://placementdo.app)**
-
-AI-driven mock interview platform with multiple interviewer personas, built to simulate real technical and behavioral rounds rather than generic Q&A.
-
-`JavaScript` `React` `AI Integration`
+<h3>placementdo-live</h3>
+<p>AI-powered placement preparation platform with multiple interviewer personas, built to simulate real technical and behavioral interview rounds.</p>
+<p><img src="https://img.shields.io/badge/JavaScript-0B0B0F?style=flat-square&logo=javascript&logoColor=F7DF1E" height="22" /> <img src="https://img.shields.io/badge/React-0B0B0F?style=flat-square&logo=react&logoColor=61DAFB" height="22" /></p>
+<p><a href="https://placementdo.app">placementdo.app →</a></p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:1px solid #262626; border-radius:12px;">
 
-**CarbonPilot**
-
-A sustainability-focused web project exploring how consumption data can be surfaced through clear, low-friction interfaces.
-
-`React` `Data Visualization`
+<h3>CarbonPilot</h3>
+<p>Sustainability-focused web application exploring clear, low-friction ways to surface consumption and impact data.</p>
+<p><img src="https://img.shields.io/badge/React-0B0B0F?style=flat-square&logo=react&logoColor=61DAFB" height="22" /> <img src="https://img.shields.io/badge/JavaScript-0B0B0F?style=flat-square&logo=javascript&logoColor=F7DF1E" height="22" /></p>
 
 </td>
 </tr>
 </table>
 
-<br />
+<br /><br />
 
-## Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayushphiyak-dev&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=8B8B8B&icon_color=8B8B8B&text_color=C9C9C9" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushphiyak-dev&theme=nightowl&hide_border=true&background=0D1117&stroke=0D1117&ring=8B8B8B&fire=8B8B8B&currStreakLabel=C9C9C9" height="165" />
-</div>
+## GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushphiyak-dev&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=8B8B8B&text_color=C9C9C9" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayushphiyak-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0B0B0F&title_color=9CA3AF&icon_color=9CA3AF&text_color=D1D5DB" height="165" />
+<img src="https://streak-stats.demolab.com?user=ayushphiyak-dev&theme=dark&hide_border=true&background=0B0B0F&stroke=0B0B0F&ring=9CA3AF&fire=9CA3AF&currStreakLabel=D1D5DB" height="165" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushphiyak-dev&layout=compact&theme=dark&hide_border=true&bg_color=0B0B0F&title_color=9CA3AF&text_color=D1D5DB" height="165" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushphiyak-dev&theme=react-dark&bg_color=0B0B0F&color=9CA3AF&line=D1D5DB&point=FFFFFF&hide_border=true" width="100%" />
+
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushphiyak-dev&theme=github-compact&bg_color=0D1117&color=8B8B8B&line=C9C9C9&point=FFFFFF&hide_border=true" width="100%" />
-</div>
+<br /><br />
 
-<br />
+## Development Philosophy
 
-## How I Work
+<table width="100%" border="0">
+<tr>
+<td width="4"><b>—</b></td>
+<td><b>The worst frame defines the interface.</b> Loading, empty, and error states get the same care as the primary flow.</td>
+</tr>
+<tr>
+<td><b>—</b></td>
+<td><b>Motion earns its place through clarity.</b> A transition survives only if it communicates state or hierarchy — otherwise it's cut.</td>
+</tr>
+<tr>
+<td><b>—</b></td>
+<td><b>Constraints precede components.</b> Spacing, type, and color scales are defined before a single component is built.</td>
+</tr>
+<tr>
+<td><b>—</b></td>
+<td><b>Small releases, real feedback.</b> A working version in front of users outperforms a polished spec no one has tested.</td>
+</tr>
+<tr>
+<td><b>—</b></td>
+<td><b>Performance is part of the design.</b> An interface that stutters isn't finished, regardless of how it looks.</td>
+</tr>
+</table>
 
-- **Interfaces are judged on their worst frame, not their best one.** Loading states, empty states, and error states get the same attention as the happy path.
-- **Motion should explain, not decorate.** Every transition earns its place by clarifying hierarchy or state change — otherwise it's cut.
-- **Constraints come before components.** I define spacing, type, and color scales up front so the UI stays coherent as it grows.
-- **Ship small, observe, iterate.** A working v1 in front of real users beats a polished spec no one has touched.
-- **Performance is a design decision.** A beautiful interface that stutters isn't a beautiful interface.
+<br /><br />
 
-<br />
+## Currently Exploring
 
-## Learning Next
+<p>
+<img src="https://img.shields.io/badge/React_Server_Components-0B0B0F?style=flat-square&logoColor=FFFFFF" height="26" />
+<img src="https://img.shields.io/badge/Advanced_Motion_Orchestration-0B0B0F?style=flat-square&logoColor=FFFFFF" height="26" />
+<img src="https://img.shields.io/badge/System_Design-0B0B0F?style=flat-square&logoColor=FFFFFF" height="26" />
+</p>
 
-`Server Components` · `Advanced Framer Motion orchestration` · `WebGL for product UI` · `System design fundamentals`
-
-<br />
+<br /><br />
 
 ## Contact
 
 <div align="center">
 
-<a href="mailto:hello@ayushphiyak.dev"><img src="https://img.shields.io/badge/Email-141414?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-<a href="https://linkedin.com/in/ayushphiyak"><img src="https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="https://placementdo.app"><img src="https://img.shields.io/badge/PlacementDo-141414?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:ayushphiyakgdg@gmail.com"><img src="https://img.shields.io/badge/Email-0B0B0F?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://www.linkedin.com/in/ayush-phiyak-98083a246/"><img src="https://img.shields.io/badge/LinkedIn-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://placementdo.app"><img src="https://img.shields.io/badge/PlacementDo-0B0B0F?style=for-the-badge&logo=vercel&logoColor=FFFFFF" /></a>
 
 </div>
 
-<br />
+<br /><br />
 
 <div align="center">
-<sub>Built with intent, not defaults.</sub>
+<sub>Designed with restraint.</sub>
 </div>
